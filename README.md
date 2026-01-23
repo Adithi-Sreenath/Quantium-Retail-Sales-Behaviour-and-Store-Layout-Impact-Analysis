@@ -199,7 +199,7 @@ Actual performance exceeding the confidence interval strengthens confidence that
 
 ## Executive Reporting & Pyramid Principle
 
-Findings from both analytical phases were consolidated into an executive presentation (**[Quantium_analysis](reports/quantium_analysis.ppt)**) structured using the Pyramid Principle.
+Findings from both analytical phases were consolidated into an executive presentation (**[Quantium_analysis](reports/quantium_analysis.pptx)**) structured using the Pyramid Principle.
 
 **Structure:**
 1. Clear top-line recommendation
